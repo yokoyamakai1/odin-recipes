@@ -1,4 +1,25 @@
 .recipe-prep-time {
     font-weight: 700;
-    
+    color:rgb(161, 23, 23)
+
+}
+
+.subsection.header {
+    color: red;
+}
+  
+.subsection.preview {
+    color: blue;
+}
+
+.ancestor .contents {
+    color: blue;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold
+
+}
+
+img {
+    height: auto;
+    width: 250px;
 }
